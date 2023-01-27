@@ -101,9 +101,7 @@
   margin-right: 15px;
 }
 
-input: focus,
-button: focus {
+.input:focus,
+.button:focus {
   outline: none;
 }
-
- 
